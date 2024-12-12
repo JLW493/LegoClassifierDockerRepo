@@ -47,3 +47,5 @@ Note
 
 This project has been set up using PyScaffold 4.6. For details and usage
 information on PyScaffold see https://pyscaffold.org/.
+
+Hello, I am Jason Walat, the maker of this.  I'm acutely aware of how slapdash this is.  The idea, if poorly executed, is to send a Python Notebook file to run in Google CoLab, which should provide access to a GPU.
